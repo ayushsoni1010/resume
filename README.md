@@ -3,7 +3,7 @@ A repository containing my latex file with github-actions set to create a PDF an
 You can check it out here [ayushsoni1010.com/resume](https://ayushsoni1010.com/resume/)
 
 ### Special mention 
-- Thanks to [@jai-dewan](https://github.com/jai-dewani) and [@rajivnayanc](https://github.com/rajivnayanc) for sharing their [@ronaksakhuja/resume](https://github.com/ronaksakhuja/resume)  and &lt;private&gt; repositories for giving me an idea, how I can create an action for compiling the latex file to generate the PDF on the fly on every update (makes my life so easy) 
+- Thanks to [@jai-dewani](https://github.com/jai-dewani) and [@rajivnayanc](https://github.com/rajivnayanc) for sharing their [@ronaksakhuja/resume](https://github.com/ronaksakhuja/resume)  and &lt;private&gt; repositories for giving me an idea, how I can create an action for compiling the latex file to generate the PDF on the fly on every update (makes my life so easy) 
 
 - [@imabp](https://github.com/imabp/) gave me the idea to make this a template repository, check out his [version](https://github.com/imabp/resume)
 
